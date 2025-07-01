@@ -47,7 +47,7 @@ matplotlib
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/krisjscott/cats-vs-dogs.git
+git clone https://github.com/krisjscott/animal-prediction.git
 cd cats-vs-dogs
 ```
 
