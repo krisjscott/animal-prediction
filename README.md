@@ -116,9 +116,9 @@ print("Predicted:", "Dog" if pred > 0.5 else "Cat")
 ---
 
 ## 🪟 Preview
-
+```
 ![Screenshot](https://github.com/user-attachments/assets/2f2ec2e1-97ae-4db0-8ddb-fcca989fe3fb)
-
+```
 ---
 
 ## 📊 Sample Results
